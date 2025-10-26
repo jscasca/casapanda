@@ -1,0 +1,94 @@
+.home {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  header nav ul li {
+    display: inline;
+  }
+  
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .hero {
+    background-image: url('url-de-imagen.jpg');
+    background-size: cover;
+    padding: 60px;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 18px;
+  }
+  
+  .hero .btn-main {
+    padding: 10px 20px;
+    background-color: #0056b3;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .featured-properties {
+    padding: 20px;
+  }
+  
+  .property-list {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .property-card {
+    background-color: #f4f4f4;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .search-filter {
+    padding: 20px;
+    background-color: #e9ecef;
+    text-align: center;
+  }
+  
+  .search-filter input {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+  }
+  
+  .search-filter button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }

@@ -1,0 +1,10 @@
+.property-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 24px;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 24px 0;
+    overflow-x: hidden;
+  }

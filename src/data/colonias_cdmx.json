@@ -1,0 +1,5074 @@
+[
+  {
+    "colonia": "Palmas",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Atacaxco",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Vista Hermosa",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Barros Sierra",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "San Jerónimo Aculco",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Barrio San Francisco",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Barranca Seca",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "El Rosal",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "El Toro",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Potrerillo",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "La Carbonera",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Pueblo Nuevo Alto",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Pueblo Nuevo Bajo",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "El Ermitaño",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Héroes de Padierna",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Santa Teresa",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "La Cruz",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "San Francisco",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "La Guadalupe",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "La Concepción",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Las Huertas",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Lomas de Chapultepec I Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec VIII Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec II Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec III Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec IV Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec V Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec VI Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Chapultepec VII Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Molino del Rey",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas Hermosa",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Sotelo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Periodista",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Argentina Poniente",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ignacio Manuel Altamirano",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "10 de Abril",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "México Nuevo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "San Joaquín",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Tlalpuente",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Plan de Ayala",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "La Palma",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Viveros Coatectlán",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Valle Escondido",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Colinas del Bosque",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Las Tórtolas",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Arenal Tepepan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Club de Golf México",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "San Buenaventura",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Villa Tlalpan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ejidos de San Pedro Mártir",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tecoantitla Xolalpa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Fuentes de Tepepan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Valle de Tepepan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Juventud Unida",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Movimiento Organizado de Tlalpan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rinconada El Mirador",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Heróico Colegio Militar",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Dolores Tlalli",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Valle Verde",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tlalmille",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Mirador del Valle",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "María Esther Zuno de Echeverría",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Belvedere Ajusco",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas de Cuilotepec",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "El Zacatón",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas de Cuilotepec II Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Vistas del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Bosques del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "2 de Octubre",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas de Padierna Sur",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Mirador I",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Mirador II",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Chimilli",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Héroes de 1910",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "General Ignacio Zaragoza",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Valentín Gómez Farias",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Puebla",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Zona Centro",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Janitzio",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Valle Gómez",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Nicolás Bravo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Popular Rastro",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Emilio Carranza",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Michoacana",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Lomas de Chamontoya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tlacoyaque",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de La Era",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas del Capulín",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de los Cedros",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Jardines del Pedregal",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Jerónimo Aculco",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Centro de Azcapotzalco",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "San Rafael",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Santo Tomás",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Del Maestro",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "San Sebastián",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Libertad",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Sindicato Mexicano de Electricistas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Un Hogar Para Cada Trabajador",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Del Recreo",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Clavería",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Sector Naval",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "San Álvaro",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ángel Zimbrón",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "El Rosario",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Nueva El Rosario",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Nueva España",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Tierra Nueva",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Santa Inés",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Pasteros",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Reynosa Tamaulipas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Industrial Vallejo",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ferrería",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Santa Cruz de las Salinas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Las Salinas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Prados del Rosario",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ex-Hacienda El Rosario",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Providencia",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Tezozomoc",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "La Preciosa",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ampliación Petrolera",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Doctores",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Roma Sur",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Buenos Aires",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Obrera",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Tránsito",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Esperanza",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Asturias",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Vista Alegre",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Paulino Navarro",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Algarin",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Ampliación Asturias",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Nonoalco Tlatelolco",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "San Simón Tolnáhuac",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Aragón la Villa",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Rosas del Tepeyac",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Santa Isabel Tola",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tepetates",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tepeyac Insurgentes",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Villa Gustavo A. Madero",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "15 de Agosto",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Estanzuela",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Triunfo de La República",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Cruz",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Dinamita",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Martín Carrera",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Gabriel Hernández",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Gabriel Hernández",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "C.T.M. Atzacoalco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "C.T.M. El Risco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Cuautepec Barrio Alto",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Miguel",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Antonio",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lomas de Cuautepec",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Malacates",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Malacates",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Compositores Mexicanos",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "El Tepetatal",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Arboledas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Arboledas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Forestal",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Forestal I",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Forestal II",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Lengüeta",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Parque Metropolitano",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Juventino Rosas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Casilda",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Loma La Palma",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Luis Donaldo Colosio",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tlacaélel",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Graciano Sánchez",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Prados de Cuautepec",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Palmatitla",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Cocoyotes",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "General Felipe Berriozabal",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Petrolera",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Unidad Cuitláhuac",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "El Jagüey",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Jardín Azpeitia",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Pro-Hogar",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Coltongo",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Monte Alto",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Trabajadores de Hierro",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Euzkadi",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Cosmopolita",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Potrero del Llano",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ampliación San Pedro Xalpa",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "San Antonio",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Industrial San Antonio",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Plenitud",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Nueva Santa María",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ignacio Allende",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Victoria de las Democracias",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Obrero Popular",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Tlatilco",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "San Salvador Xochimanca",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Aguilera",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Aldana",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ampliación Cosmopolita",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Liberación",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Porvenir",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Del Gas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Ampliación Del Gas",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Arenal",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Patrimonio Familiar",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "La Raza",
+    "alcaldia": "Azcapotzalco"
+  },
+  {
+    "colonia": "Piedad Narvarte",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Atenor Salas",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Narvarte Poniente",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Narvarte Oriente",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Del Valle Centro",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Insurgentes San Borja",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Ampliación Cocoyotes",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "6 de Junio",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Vista Hermosa",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tlalpexco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ahuehuetes",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Valle de Madero",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Del Carmen",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Cuautepec de Madero",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Del Bosque",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Guadalupe Victoria Cuautepec",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Chalma de Guadalupe",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Chalma de Guadalupe",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Castillo Chico",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Castillo Grande",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Castillo Grande",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Zona Escolar",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Zona Escolar Oriente",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "El Arbolillo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Benito Juárez",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Benito Juárez",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Solidaridad Nacional",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Residencial Acueducto de Guadalupe",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Acueducto de Guadalupe",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Jorge Negrete",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Pastora",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lindavista Norte",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lindavista Sur",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Residencial la Escalera",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Santa María Ticomán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San José Ticomán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Pedro Zacatenco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Residencial Zacatenco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Capultitlan",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Maximino Ávila Camacho",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tlacamaca",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Salvador Díaz Mirón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Juan González Romero",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Villa Hermosa",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "El Coyol",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Nueva Atzacoalco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Del Obrero",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Vasco de Quiroga",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "DM Nacional",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ferrocarrilera",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "LI Legislatura",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Granjas Modernas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Constitución de la República",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación San Juan de Aragón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Pedro El Chico",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Pradera",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Plan de Iguala",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Paraje San Juan",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Juan Joya",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Los Reyes",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Juan Xalpa",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Nicolás Tolentino",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa María del Monte",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Estado de Veracruz",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Veracruzana",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Paraje San Juan Cerro",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Benito Juárez",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Bellavista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Bellavista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Casa Blanca",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Cerro de La Estrella",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Parque Nacional Cerro de la Estrella",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Rodeo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Juan Estrella",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "12 de Diciembre",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Andrés Tomatlán",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Vergel",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Granjas Estrella",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas Estrella",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Carlos Jonguitud Barrios",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "La Esperanza",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "José López Portillo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Rosario",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Jardines de San Lorenzo Tezonco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Celoalliotli",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "USCOVI",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Molino Tezonco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Allapetlalli",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "La Planta",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Cananea",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Valle de San Lorenzo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas Quebradas",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "La Malinche",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "San Bartolo Ameyalco",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Cuauhtémoc",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "El Maestro",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "San Jerónimo Lídice",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "El Tanque",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Las Cruces",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Los Padres",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Lomas de San Bernabé",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Huayatla",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Ampliación Potrerillo",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Ampliación Lomas de San Bernabé",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Tierra Unida",
+    "alcaldia": "La Magdalena Contreras"
+  },
+  {
+    "colonia": "Argentina Antigua",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Torre Blanca",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ampliación Torre Blanca",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Huíchapan",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "San Diego Ocoyoacac",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Verónica Anzures",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Mariano Escobedo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Anáhuac I Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Anáhuac II Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Un Hogar Para Nosotros",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Santo Tomas",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Plutarco Elías Calles",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Agricultura",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Tlaxpana",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Popotla",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Legaria",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Nextitla",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Pensil Norte",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ventura Pérez de Alva",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Reforma Pensil",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "San Juanico",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ahuehuetes Anáhuac",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Modelo Pensil",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Peralitos",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Dos Lagos",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lago Norte",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lago Sur",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Los Manzanos",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "5 de Mayo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Deportivo Pensil",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Francisco I Madero",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Popo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ampliación Popo",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Cuauhtémoc Pensil",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Pensil Sur",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Irrigación",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Polanco I Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Granada",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ampliación Granada",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Polanco II Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Polanco III Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Polanco IV Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Polanco V Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Chapultepec Morales",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Anzures",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Residencial Militar",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Manuel Ávila Camacho",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Primavera",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Verano",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Paraje 38",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Nueva Oriental Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Residencial Acoxpa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Residencial Miramontes",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ex Hacienda Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Belisario Domínguez",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Floresta Coyoacán",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Vergel Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rinconada Coapa 2A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tenorios",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Granjas Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rinconada Coapa 1A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Vergel de Coyoacán",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Vergel del Sur",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Prado Coapa 1A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Prado Coapa 2A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Prado Coapa 3A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Magisterial",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Magisterial Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Residencial Chimali",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Villa Lázaro Cárdenas",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Arboledas del Sur",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Hacienda San Juan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "A.M.S.A",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "San Bartolo El Chico",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rancho los Colorines",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ex Hacienda San Juan de Dios",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Guadalupe",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Arenal de Guadalupe",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rinconada Las Hadas",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Narciso Mendoza",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Residencial Villa Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Villa Coapa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Divisadero",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Nuevo Renacimiento de Axalco",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tecorral",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Bosques de Tepeximilpa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Fuentes Brotantes",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Cumbres de Tepetongo",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Mesa de los Hornos",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Santa Úrsula Xitla",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Texcaltenco",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tlaxcaltenco la Mesa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "San Juan Tepeximilpa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tepeximilpa la Paz",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Santísima Trinidad",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tlalcoligia",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de Santa Úrsula Xitla",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de las Águilas",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Los Volcanes",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "El Mirador 1A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "El Mirador 2A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "El Mirador 3A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Actopa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Actopa Sur",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ampliación Michoacana",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación 20 de Noviembre",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Morelos",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Penitenciaria",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "10 de Mayo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "20 de Noviembre",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "5o Tramo 20 de Noviembre",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Felipe Ángeles",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Azteca",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Tres Mosqueteros",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación Venustiano Carranza",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Venustiano Carranza",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación Penitenciaria",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Progresista",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Escuela de Tiro",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "7 de Julio",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Romero Rubio",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Simón Bolívar",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación Simón Bolívar",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Aquiles Serdán",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "1° de Mayo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Damián Carmona",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Revolución",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Miguel Hidalgo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Moctezuma 1a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Pensador Mexicano",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Peñón de los Baños",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Moctezuma 2a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Santa Cruz Aviación",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Arenal 1a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Cuchilla Pantitlán",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Caracol",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Arenal 4a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Arenal Puerto Aéreo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación Caracol",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Arenal 3a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Adolfo López Mateos",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Arenal 2a Sección",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Federal",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Industrial Puerto Aéreo",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "4 Árboles",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Aviación Civil",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Ampliación Aviación Civil",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Jamaica",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Merced Balbuena",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Santa Cruz Chavarrieta",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Santa Cruz de Guadalupe",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "La Joya",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Nueva Tenochtitlán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Malinche",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Cuchilla del Tesoro",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón VII Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón VI Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ex Ejido San Juan de Aragón Sector 32",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "El Olivo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Indeco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Héroes de Chapultepec",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ex Ejido San Juan de Aragón Sector 33",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Héroes de Cerro Prieto",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ex Escuela de Tiro",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Fernando Casas Alemán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón I Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón II Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón III Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón IV Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Juan de Aragón V Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Narciso Bassols",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "C.T.M. Aragón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Gabriel Ramos Millán Sección Bramadero",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Ex-Ejido de La Magdalena Mixiuhca",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Ampliación Gabriel Ramos Millán",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Gabriel Ramos Millán Sección Cuchilla",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Carlos Zapata Vela",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Agrícola Pantitlán",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Viaducto Piedad",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Nueva Santa Anita",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Santa Anita",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "La Cruz",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Fraccionamiento Coyuya",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Granjas México",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Cuchilla Agrícola Oriental",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Agrícola Oriental",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "El Rodeo",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Juventino Rosas",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Tlazintla",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Gabriel Ramos Millán Sección Tlacotal",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Gabriel Ramos Millán",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "INPI Picos",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Los Picos de Iztacalco Sección 2A",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Los Picos de Iztacalco Sección 1B",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Los Picos de Iztacalco Sección 1A",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Santa Fe Tlayapaca",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Olivar del Conde 1a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Preconcreto",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Galeana",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Olivar del Conde 2a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Barrio Norte",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Palmas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Minas Cristo Rey",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Sacramento",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Colina del Sur",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Hogar y Redención",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Alfonso XIII",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Molino de Rosas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Plateros",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Cascada",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Miguel Gaona Armenta",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Garcimarrero",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Araña",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Los Cedros",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Los Pirules",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Estado de Hidalgo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Estado de Hidalgo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Piru Santa Lucía",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Politoco",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Corpus Christy",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tepopotla",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Acuilotla",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Cooperativa Unión Olivos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Balcones de Cehuayo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Cehuaya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Llano Redondo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Punta de Cehuaya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Villa Progresista",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Dos Ríos del Pueblo Santa Lucía",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tepeaca",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Tepeaca",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Rinconada Las Cuevitas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ave Real",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Canutillo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Canutillo 3a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Canutillo 2a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Hueytlale",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Reacomodo Valentín Gómez Farías",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tarango",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Rincón",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Merced Gómez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Colinas de Tarango",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Profesor J. Arturo López Martínez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Arcos Centenario",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ex-Hacienda de Tarango",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Martinica",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Reloj",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Joyas del Pedregal",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Pedregal de Carrasco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Olímpica",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Cantil del Pedregal",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Bosques de Tetlameya",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Caracol",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Alianza Popular Revolucionaria",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Los Cedros",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Prados de Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Emiliano Zapata",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Los Cipreses",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ex-Ejido de San Pablo Tepetlapa",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Espartaco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Jardines de Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Los Olivos",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Parque de Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección VIII",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección IX-A",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección IX-B",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Carmen Serdán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Cafetales",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Emiliano Zapata Fraccionamiento Popular",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Los Girasoles",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Las Campanas",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Santa Cecilia",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Campestre Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección X",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Los Sauces",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Mirador",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Villa Quietud",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Haciendas de Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ex-Ejido de Santa Úrsula Coapa",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ex-Hacienda Coapa",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Viejo Ejido de Santa Úrsula Coapa",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Cuajimalpa",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Zentlapatl",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Loma del Padre",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "San Pedro",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "La Manzanita",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Lomas de Vista Hermosa",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Cooperativa Palo Alto",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Granjas Palo Alto",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Campestre Palo Alto",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Bosques de las Lomas",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Lomas del Chamizal",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "San José de los Cedros",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Granjas Navidad",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Tepetongo",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "El Ébano",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "El Molino",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Jesús del Monte",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Amado Nervo",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Reforma Iztaccíhuatl Norte",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Militar Marte",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Reforma Iztaccíhuatl Sur",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "INFONAVIT Iztacalco",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Jardines Tecma",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Campamento 2 de Octubre",
+    "alcaldia": "Iztacalco"
+  },
+  {
+    "colonia": "Real del Moral",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Doctor Alfonso Ortiz Tirado",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Paseos de Churubusco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Central de Abasto",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Escuadrón 201",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Sector Popular",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Granjas de San Antonio",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Cacama",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Unidad Modelo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Héroes de Churubusco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Juan Escutia",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa Martha Acatitla Norte",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ermita Zaragoza",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Unidad Vicente Guerrero",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Chinampac de Juárez",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Renovación",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Tepalcates",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Unidad Ejército Constitucionalista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Álvaro Obregón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ejército de Oriente",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Paraíso",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "José María Morelos y Pavón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ejército de Oriente Zona Peñón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Progresista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "La Regadera",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Constitución de 1917",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Colonial Iztapalapa",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Jacarandas",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa Cruz Meyehualco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Guadalupe del Moral",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Leyes de Reforma 1a Sección",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Leyes de Reforma 2a Sección",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Leyes de Reforma 3a Sección",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Cuchilla del Moral",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Sideral",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Albarrada",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Eva Sámano de López Mateos",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Reforma Social",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Bosque de las Lomas",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Escandón I Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Escandón II Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "16 de Septiembre",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "América",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Daniel Garza",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Ampliación Daniel Garza",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "San Miguel Chapultepec I Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "San Miguel Chapultepec II Sección",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Observatorio",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Tacubaya",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Bezares",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Real de las Lomas",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas de Reforma",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Lomas Altas",
+    "alcaldia": "Miguel Hidalgo"
+  },
+  {
+    "colonia": "Villa Milpa Alta Centro",
+    "alcaldia": "Milpa Alta"
+  },
+  {
+    "colonia": "Emiliano Zapata",
+    "alcaldia": "Milpa Alta"
+  },
+  {
+    "colonia": "La Conchita",
+    "alcaldia": "Milpa Alta"
+  },
+  {
+    "colonia": "Santa Cecilia",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "San José",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Habana",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Tepantitlamilco",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Tlalpan Centro",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Tlalpan",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Parque del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Villa Olímpica",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Isidro Fabela",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ampliación Isidro Fabela",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Cantera Puente de Piedra",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pueblo Quieto",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Comuneros de Santa Úrsula",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Toriello Guerra",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Peña Pobre",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rómulo Sánchez Mireles",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "San Pedro Apóstol",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Belisario Domínguez Sección XVI",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "La Joya",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de San Nicolás 1A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de San Nicolás 2A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de San Nicolás 3A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de San Nicolás 4A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Pedregal de San Nicolás 5ª Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Chichicaspatl",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Ampliación Fuentes del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Rincón del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Fuentes del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas del Pedregal Framboyanes",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Popular Santa Teresa",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Héroes de Padierna",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Jardines del Ajusco",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Colinas del Ajusco",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Torres de Padierna",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Jardines en la Montaña",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Cuchilla de Padierna",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas del Pedregal",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Cultura Maya",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Los Encinos",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas de Padierna",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lomas Hidalgo",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Cruz del Farol",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Miguel Hidalgo 2A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Miguel Hidalgo 3A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Miguel Hidalgo 4A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Miguel Hidalgo",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Miguel Hidalgo 1A Sección",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Zacayucan Peña Pobre",
+    "alcaldia": "Tlalpan"
+  },
+  {
+    "colonia": "Lorenzo Boturini",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Artes Gráficas",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Sevilla",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Magdalena Mixiuhca",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Aarón Sáenz",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Jardín Balbuena",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Del Parque",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Aeronáutica Militar",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "24 de Abril",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Álvaro Obregón",
+    "alcaldia": "Venustiano Carranza"
+  },
+  {
+    "colonia": "Bosque Residencial del Sur",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Las Peritas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Paseos del Sur",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Bartolo El Chico",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Juan Tepepan",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Ampliación Tepepan",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Huichapan",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "La Noria",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Potrero de San Bernardino",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Ampliación La Noria",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Lorenzo La Cebada",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Rinconada Coapa",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Ampliación San Marcos Norte",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Jardines del Sur",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Tierra Nueva",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Pueblo Santiago Tepalcatlalpan, U.H. Rinconada del Sur",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "El Mirador",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Tablas de San Lorenzo",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Pueblo Santiago Tepalcatlalpan U.H. Res. Santiago",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "La Concha",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Tlaxopan",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "La Cañada",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Lucas Oriente",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Texmic",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Lomas de Tonalco",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Jerónimo",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "El Jazmín",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Rancho Tejomulco",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Xochipilli",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Año de Juárez",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Lomas de Nativitas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Ampliación Nativitas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Valle de Santa María",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Quirino Mendoza",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Del Carmen",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Isidro",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Guadalupita",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Las Animas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "San Felipe",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Santiaguito",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Cerrillos Primera Sección",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "El Sacrificio",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Cristo Rey",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Cerrillos Segunda Sección",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Cerrillos Tercera Sección",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Nativitas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Las Mesitas",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Santa Inés",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "Rosario Tlali",
+    "alcaldia": "Xochimilco"
+  },
+  {
+    "colonia": "La Estrella",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Campo de Tiro los Gamitos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Los Gamitos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tlapechico",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Piru Santa Fe",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Piru 2a Ampliación",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Huerta",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Pueblo Nuevo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Árbol",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ladera",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Nuevo México",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Margarita Maza de Juárez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tecolalco",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación La Cebada",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Mexicana 2a Ampliación",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Calzada Jalalpa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Mexicana",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación La Mexicana",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Palmita",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Liberación Proletaria",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "1a Sección Cañada",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "2a Sección Cañada",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Tejocote",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Presa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Golondrinas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Golondrinas 1a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Golondrinas 2a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Capula",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Villa Solidaridad",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Pirul",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Desarrollo Urbano",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Becerra",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Arvide",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Pocito",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Francisco Villa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Joya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Rodeo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Reacomodo El Cuernito",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Piloto Adolfo López Mateos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Presidentes",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Jalalpa Tepito 2a Ampliación",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Jalalpa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Jalalpa Tepito",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Piloto Adolfo López Mateos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "1a Ampliación Presidentes",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "2a Ampliación Presidentes",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Gabriel",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Carlos A. Madrazo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Paseo de las Lomas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Bejero del Pueblo Santa Fe",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Santa Fe",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Santa Fe Peña Blanca",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Santa Fe La Loma",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Santa Fe Centro Ciudad",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Jalalpa El Grande",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Ángel",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Los Alpes",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Guadalupe Inn",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Florida",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Campestre",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ex-Hacienda de Guadalupe Chimalistac",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Altavista",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Ángel Inn",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Chimalistac",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Progreso Tizapan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ermita Tizapan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Pólvora",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Conchita",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Belém de las Flores",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Capulín",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación El Capulín",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Liberales de 1857",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Acueducto",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Cove",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Hidalgo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Las Américas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Acueducto",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Paraíso",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Molino de Santo Domingo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Real del Monte",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Reacomodo Pino Suárez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Bellavista",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "José Maria Pino Suárez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Cristo Rey",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tolteca",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Bosque",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Isidro Fabela",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Maria G. de García Ruiz",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "1a Victoria",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Abraham M. González",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Carola",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "8 de Agosto",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Pedro de los Pinos",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Arturo Martínez",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Santa Fe",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Bonanza",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Cuevitas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Cuernito",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Mártires de Tacubaya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Zenón Delgado",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Parque San Andrés",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Del Carmen",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "San Diego Churubusco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "San Mateo",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Campestre Churubusco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Churubusco Country Club",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Prado Churubusco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Hermosillo",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Paseos de Taxqueña",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ajusco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Romero de Terreros",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Cuadrante de San Francisco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Pedregal de San Francisco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Rosedal",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Copilco El Bajo",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Copilco El Alto",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Copilco Universidad",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Pedregal de Santo Domingo",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Atlántida",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ciudad Jardín",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Rosario",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Huayamilpas",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Nueva Díaz Ordaz",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Educación",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Petrolera Taxqueña",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Ex-Ejido de San Francisco Culhuacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección V",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección II",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección I",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "El Centinela",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Avante",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Presidentes Ejidales 1a Sección",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Presidentes Ejidales 2a Sección",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección VI",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección III",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM CROC",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección X-A",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección VII",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Sección Piloto",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Culhuacán CTM Canal Nacional",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Jardines del Pedregal de San Ángel",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "La Otra Banda",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Insurgentes Cuicuilco",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Pedregal de Santa Úrsula",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Xotepingo",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Adolfo Ruiz Cortínes",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Rinconada de Tarango",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Tarango",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Puerta Grande",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Puerta Grande",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Los Juristas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Herón Proal",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ponciano Arriaga",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Milagrosa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Palmas Axotitla",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tlacuitlapa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Tlacuitlapa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "2o Reacomodo Tlacuitlapa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Ruedo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Santa Lucía Chantepec",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Joyita del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ocotillos del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Agustín del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "2a Del Moral del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tecalcapa del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Encino del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "El Mirador del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Las Águilas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Alpes",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de Guadalupe",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Alcantarilla",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de las Águilas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Puente Colorado",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Peñita del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Clemente Norte",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San Clemente Sur",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Las Águilas 1a Sección",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Las Águilas 2o Parque",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Las Águilas 3er Parque",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ampliación Las Águilas",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Atlamaya",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Flor de María",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Herradura del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "La Angostura",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "San José del Olivar",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Olivar de los Padres",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Tizampampano del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Miguel Hidalgo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de los Ángeles del Pueblo Tetelpan",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas de San Ángel Inn",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Rancho San Francisco Pueblo San Bartolo Ameyalco",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Villa Verdún",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Lomas Axomiatla",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Ejido San Mateo",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Torres de Potrero",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Rincón de la Bolsa",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Rancho del Carmen del Pueblo San Bartolo Ameyalco",
+    "alcaldia": "Álvaro Obregón"
+  },
+  {
+    "colonia": "Manzanastitla",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Adolfo López Mateos",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "El Molinito",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "El Yaqui",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Lomas de Memetla",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Memetla",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Ampliación Memetla",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Ampliación el Yaqui",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Santa Fe Cuajimalpa",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Locaxco",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Las Tinajas",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Lomas de San Pedro",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "El Tianguillo",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "1° de Mayo",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Contadero",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "La Venta",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Abdías García Soto",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Cruz Blanca",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Las Maromas",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Xalpa",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "La Pila",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Las Lajas",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Agua Bendita",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Puerto Las Cruces",
+    "alcaldia": "Cuajimalpa de Morelos"
+  },
+  {
+    "colonia": "Centro (Área 1)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 2)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 3)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Tabacalera",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 4)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 5)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 6)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 7)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 8)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Centro (Área 9)",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Hipódromo",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Condesa",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Hipódromo Condesa",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Morelos",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Peralvillo",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Valle Gómez",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Ex-Hipódromo de Peralvillo",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Maza",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Felipe Pescador",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Guerrero",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Buenavista",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Santa María la Ribera",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Santa María Insurgentes",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Atlampa",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "San Rafael",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Cuauhtémoc",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Juárez",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Roma Norte",
+    "alcaldia": "Cuauhtémoc"
+  },
+  {
+    "colonia": "Ampliación San Miguel",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Sifón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Jardines de Churubusco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San José Aculco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Los Picos VI-B",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Nueva Rosita",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Purísima Atlazolpa",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Apatlaco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Triunfo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación El Triunfo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Retoño",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Andrés Tetepilco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Zacahuitzco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Banjidal",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Justo Sierra",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Sinatel",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Sinatel",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Prado",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa María Aztahuacán Ampliación",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Edén",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa Martha Acatitla Sur",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Monte Alban",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Paraje Zacatepec",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa María Aztahuacán",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ejército de Agua Prieta",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santiago Acahualtepec 1ra. Ampliación",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santiago Acahualtepec 2a. Ampliación",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas de Zaragoza",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Corrales",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Acorralado",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Avisadero",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Capilla",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Guadalupe",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Iztlahuaca",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Jardines",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección La Cruz",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Loma Alta",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Mercedes",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Palmitas",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Puente",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Ranchito",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Rancho Bajo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel Teotongo Sección Torres",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Campestre Potrero",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Emiliano Zapata",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas de la Estancia",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Xalpa",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Pablo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Citlalli",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Palmitas",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Tenorios",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Barranca de Guadalupe",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Iztlahuacán",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Miravalles",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Miguel de La Madrid Hurtado",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Buenavista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Carlos Hank González",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Desarrollo Urbano Quetzalcóatl",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Degollado",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Degollado - Mexicatlalli",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San José Buenavista",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Mixcoatl",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas de Santa Cruz",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Los Ángeles Apanoaya",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Francisco Villa",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "La Era",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Reforma Política",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Presidentes de México",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Insurgentes",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "La Polvorilla",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Las Peñas",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Consejo Agrarista Mexicano",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Triángulo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Puente Blanco",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Año de Juárez",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas de San Lorenzo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Mirador",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Estrella Culhuacán",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Fuego Nuevo",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Antonio Culhuacán",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Valle de Luces",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Granjas Esmeralda",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Los Cipreses",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Minerva",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Progreso del Sur",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Valle del Sur",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Santuario",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Estrella del Sur",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ricardo Flores Magón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Santa Isabel Industrial",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación Ricardo Flores Magón",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Ampliación El Santuario",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Manto",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "El Molino",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Lomas El Manto",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Los Ángeles",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Paraje San Juan",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "San Miguel 8va. Ampliación",
+    "alcaldia": "Iztapalapa"
+  },
+  {
+    "colonia": "Quiahuatla",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "San Sebastián",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "San Isidro",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación Santa Catarina",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Miguel Hidalgo",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Los Olivos",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Las Arboledas",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación Los Olivos",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Nopalera",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Granjas Cabrera",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Turba",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Del Mar",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Draga",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Villa Centroamericana",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Agrícola Metropolitana",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Zapotitla",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación Zapotitla",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Estación",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Conchita Zapotitlán",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "López Portillo",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación José López Portillo",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Selene",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación Selene",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Zacatenco",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Guadalupe Tlaltenco",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ojo de Agua",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "El Triángulo",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Lupita",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Francisco Villa",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Jaime Torres Bodet",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "La Asunción",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "El Rosario",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Tierra Blanca",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Ampliación La Conchita",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Peña Alta",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Jardines del Llano",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Potrero del Llano",
+    "alcaldia": "Tláhuac"
+  },
+  {
+    "colonia": "Del Valle Norte",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Del Valle Sur",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Tlacoquemécatl",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Actipan",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Acacias",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Portales Sur",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Portales Norte",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Santa Cruz Atoyac",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Residencial Emperadores",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Xoco",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "General Pedro María Anaya",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Álamos",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Postal",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Miguel Alemán",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Josefa Ortiz de Domínguez",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Niños Héroes",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Nativitas",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Moderna",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Iztaccihuatl",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Villa de Cortés",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Del Carmen",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Zacahuitzco",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Albert",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Portales Oriente",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Miravalle",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Ermita",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Vértiz Narvarte",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Américas Unidas",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Periodista",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Independencia",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Del Lago",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Letrán Valle",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "San Simón Ticumac",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Santa María Nonoalco",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Ciudad de los Deportes",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Nochebuena",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "San Juan",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Extremadura Insurgentes",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "San Pedro de los Pinos",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Nápoles",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "8 de Agosto",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Ampliación Nápoles",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "San José Insurgentes",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Mixcoac",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Insurgentes Mixcoac",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Merced Gómez",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Crédito Constructor",
+    "alcaldia": "Benito Juárez"
+  },
+  {
+    "colonia": "Villa Coyoacán",
+    "alcaldia": "Coyoacán"
+  },
+  {
+    "colonia": "Pradera II Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Felipe de Jesús",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "25 de Julio",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Campestre Aragón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Esmeralda",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Providencia",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Providencia",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Villa de Aragón",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Casas Alemán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Progreso Nacional",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Santa Rosa",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San José de la Escalera",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Santiago Atepetlac",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Progreso Nacional",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Guadalupe Proletaria",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Guadalupe Proletaria",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Nueva Industrial Vallejo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Siete Maravillas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Torres Lindavista",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lindavista Vallejo I Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Churubusco Tepeyac",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Montevideo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "San Bartolo Atepehuacan",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Planetario Lindavista",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Valle del Tepeyac",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Nueva Vallejo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lindavista Vallejo III Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Lindavista Vallejo II Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Magdalena de las Salinas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Panamericana",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Panamericana",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Defensores de La República",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Héroe de Nacozari",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Guadalupe Victoria",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Vallejo Poniente",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Industrial",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Estrella",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Aragón Inguarán",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tres Estrellas",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Gertrudis Sánchez 1a Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Gertrudis Sánchez 3a Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Gertrudis Sánchez 2a Sección",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Guadalupe Tepeyac",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "7 de Noviembre",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Bondojito",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Faja de Oro",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Emiliano Zapata",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Ampliación Mártires de Río Blanco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "La Joyita",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Tablas de San Agustín",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Belisario Domínguez",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Guadalupe Insurgentes",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Vallejo",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Mártires de Río Blanco",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Emiliano Zapata",
+    "alcaldia": "Gustavo A. Madero"
+  },
+  {
+    "colonia": "Cuchilla La Joya",
+    "alcaldia": "Gustavo A. Madero"
+  }
+]

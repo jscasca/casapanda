@@ -1,0 +1,61 @@
+/* src/components/HeroSection.css */
+
+.hero-section {
+    background: none;
+    width: 100%;
+    position: relative;
+    margin-bottom: 80px;
+  }
+  
+  .hero-container {
+    top: -95px;
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    height: 631px;
+    margin: 0 auto;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    overflow: visible;
+    background-image:
+      linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+      linear-gradient(180deg, rgba(0, 0, 0, 0) 57.5%, rgba(0, 0, 0, 0.2) 79%),
+      linear-gradient(180deg, rgba(0, 0, 0, 0.5) 19.5%, rgba(0, 0, 0, 0) 29.5%),
+      url('../assets/familia-joven-que-muda-nueva-casa 1.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .hero-overlay {
+    position: absolute;
+    top: 360px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 447px;
+    text-align: center;
+    z-index: 5;
+    pointer-events: none;
+  }
+  
+  .header-slogan {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 87%;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0;
+  }
+  
+  .accent-orange {
+    color: #fc6b51;
+    font-style: italic;
+  }
+  
+  .accent-purple {
+    color: #5f60f9;
+    font-style: italic;
+  }

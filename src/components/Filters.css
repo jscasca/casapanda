@@ -1,0 +1,33 @@
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    width: 100%;
+    padding: 16px 0;
+    box-sizing: border-box;
+    justify-content: flex-start;
+  }
+  
+  .filters input {
+    padding: 10px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    min-width: 180px;
+    flex: 1;
+  }
+  
+  .filters button {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #5f60f9;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .filters button:hover {
+    background-color: #4b4cf0;
+  }

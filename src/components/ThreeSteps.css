@@ -1,0 +1,73 @@
+/* src/components/ThreeSteps.css */
+
+.three-steps {
+    background-color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+    margin-top: -150px;
+    margin-bottom: 50px;
+  }
+  
+  .container-xl {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .steps-wrapper {
+    width: 100%;
+  }
+  
+  .steps-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 8px;
+  }
+  
+  .steps-subtitle {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 60px;
+  }
+  
+  .steps-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 60px;
+  }
+  
+  .step-item {
+    max-width: 356px;
+    flex: 1;
+    text-align: center;
+  }
+  
+  .step-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 16px;
+  }
+  
+  .step-heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: #5B52BC;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 15px;
+  }
+  
+  .step-description {
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    line-height: 100%;
+  }

@@ -1,0 +1,143 @@
+.footer-section {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    padding: 80px 0 0;
+  }
+  
+  .footer-box {
+    background-color: #5B52BC;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 60px 40px;
+  }
+  
+  .footer-logo img {
+    width: 180px;
+    height: auto;
+    max-width: 100%;
+  }
+  
+  .footerlegal {
+    font-size: 5px;
+    margin-top: 8px;
+    color: #ffffff;
+    opacity: 0.7;
+  }
+  
+  .footer-columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    flex: 1 1 100%;
+  }
+  
+  .footer-column {
+    min-width: 180px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .footer-column h4 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  .footer-column ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-column li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-column a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .footer-column a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-bottom {
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: -10px;
+  }
+
+  .footer-contact {
+    margin-top: 16px;
+  }
+
+  .footer-contact h4 {
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: white;
+  }
+
+  .footer-contact u1 {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-contact li {
+    font-size: 13px;
+    color: white;
+    margin-bottom: 6px;
+  }
+  
+  /* NUEVO: Estilos para íconos de redes */
+  .social-icons {
+    display: flex;
+    gap: 16px;
+    font-size: 30px;
+    margin-top: 8px;
+  }
+  
+  .social-icons a {
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+  }
+  
+  .social-icons a:hover {
+    opacity: 0.7;
+  }
+
+  .icon-size {
+    font-size: 30px;
+  }
+  
+  /* Responsivo */
+  @media (max-width: 768px) {
+    .footer-box {
+      flex-direction: column;
+    }
+  
+    .footer-columns {
+      flex-direction: column;
+      gap: 30px;
+      margin-top: 20px;
+    }
+  
+    .footer-logo {
+      margin-bottom: 0 0 180px;
+    }
+  }

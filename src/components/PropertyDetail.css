@@ -1,0 +1,513 @@
+/* Contenedor principal */
+.property-container {
+    margin-top: 60px;
+    padding: 40px 0;
+  }
+  
+  /* Galería nueva */
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 58% 41.5%; /* Ajuste para mejor proporción */
+    gap: 6px; /* Más compacto */
+    margin: 40px 0;
+  }
+  
+  .gallery-main img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+  }
+  
+  .gallery-thumbnails {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(2, 1fr);
+    gap: 6px; /* Menor espacio entre imágenes */
+  }
+  
+  .gallery-thumbnails img {
+    width: 100%;
+    height: 220px; /* Más grandes */
+    object-fit: cover;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .gallery-thumbnails img:hover {
+    transform: scale(1.05);
+  }
+
+  .gallery-main img:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Responsive para galería en móviles */
+  @media (max-width: 768px) {
+    .gallery-grid {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .gallery-main img {
+      height: 300px;
+    }
+  
+    .gallery-thumbnails {
+      display: grid;
+      grid-template-columns: 1fr 1fr; /* 2 columnas en mobile */
+      gap: 8px;
+    }
+  
+    .gallery-thumbnails img {
+      width: 100%;
+      height: 150px;
+    }
+  }
+  
+  /* Contenido general */
+  .property-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  
+  .property-main {
+    flex: 2;
+    min-width: 300px;
+  }
+  
+  .property-main h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .property-icons {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #666;
+  }
+  
+  .property-description {
+    font-size: 16px;
+    color: #444;
+    margin-bottom: 30px;
+  }
+  
+  .property-amenities {
+    margin-bottom: 30px;
+  }
+  
+  .property-amenities h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .property-amenities ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .property-amenities li {
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .property-map h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .property-map img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+  }
+  
+  /* Contacto */
+  .property-contact {
+    flex: 1;
+    min-width: 280px;
+    background: #f9f9f9;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-form h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contact-form input {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+  }
+  
+  /* Botones contacto */
+  .contact-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .contact-buttons button {
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .contact-buttons button:disabled {
+    background: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .contact-buttons .btn-activo {
+    background: #ff6f61;
+    color: white;
+  }
+  
+  .contact-buttons .btn-inactivo {
+    background: #cccccc;
+    color: white;
+  }
+  
+  .btn-coral {
+    background: #ff6f61;
+    color: white;
+  }
+  
+  /* Calendario principal */
+  .calendar-mini {
+    margin-top: 20px;
+  }
+  
+  .calendar-mini h4 {
+    font-size: 18px;
+    margin-bottom: 12px;
+    color: #2563eb;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .calendar-grid-2col {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .calendar-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .calendar-header {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .calendar-header-day {
+    padding: 8px 0;
+  }
+  
+  .calendar-dates-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width: 100%;
+    gap: 4px;
+  }
+  
+  .calendar-day {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 14px;
+    background: #f3f4f6;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .calendar-day.disponible {
+    font-weight: bold;
+    background: #e0e7ff;
+  }
+  
+  .calendar-day.selected {
+    background: #6366f1;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Mensaje de cita agendada */
+  .mensaje-agendado {
+    margin-top: 20px;
+    background: #d1fae5;
+    color: #065f46;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  /* Popup de horarios */
+  .popup-horas-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+  }
+  
+  .popup-horas {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    width: 300px;
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .close-popup {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .popup-horas h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #4f46e5;
+  }
+  
+  .popup-horas-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 180px;
+    overflow-y: auto;
+    width: 100%;
+    padding-right: 4px;
+  }
+  
+  .popup-hora {
+    width: 100%;
+    padding: 10px;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .popup-hora.selected {
+    background: #6366f1;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .confirmar-cita-popup {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  .confirmar-cita-popup button {
+    width: 100%;
+    padding: 10px;
+    background: #22c55e;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Mortgage button */
+  .mortgage-button {
+    margin-top: 30px;
+  }
+  
+  .mortgage-button button {
+    width: 100%;
+    padding: 14px;
+    background: #7c3aed;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .mortgage-button button:hover {
+    background: #6d28d9;
+  }
+
+  /* Modal de imagen ampliada */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(30, 30, 30, 0.8);
+    backdrop-filter: blur(5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3000;
+    padding: 20px;
+  }
+  
+  .modal-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content img {
+    width: auto;
+    max-width: 100%;
+    max-height: 65vh;
+    object-fit: contain;
+    border-radius: 12px;
+    z-index: 1;
+  }
+  
+  /* Botón Cerrar */
+  .close-modal {
+    position: fixed;
+    top: 16px;
+    right: 20px;
+    background: #e85c4f;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    z-index: 2; /* Por encima de la imagen */
+  }
+  
+  /* Botones navegación */
+  .modal-buttons {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    padding: 0 20px;
+    z-index: 2; /* Por encima de la imagen */
+  }
+  
+  .modal-buttons button {
+    background: none;
+    color: white;
+    border: none;
+    font-size: 80px;
+    padding: 20px 16px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .modal-buttons button:hover {
+    background: none;
+  }
+  
+  /* Info de propiedad */
+  .modal-info {
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    z-index: 1;
+  }
+  
+  .modal-info h2 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .modal-info p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Botones Agendar */
+  .modal-actions {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+    z-index: 1;
+  }
+  
+  .modal-actions button {
+    padding: 10px 20px;
+    background: #ff6f61;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .modal-actions button:hover {
+    background: #e85c4f;
+  }
+
+  .fade-in {
+    animation: FadeIn 0.5s ease-in-out;
+  }
+
+  @keyframes FadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+  }

@@ -1,0 +1,373 @@
+/* Contenedor principal */
+.resultados-container {
+  padding-top: 180px;
+  padding-bottom: 60px;
+  margin-bottom: 120px;
+  position: relative;
+  z-index: 2;
+}
+
+/* Fondo morado detrás del header */
+.resultados-header-fondo {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 1;
+}
+
+.barra-morada {
+  background-color: #5B52BC;
+  height: 70px;
+  border-radius: 12px;
+}
+
+/* Layout de filtros y resultados */
+.resultados-wrapper {
+  display: flex;
+  gap: 32px;
+  position: relative;
+  z-index: 2;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+
+/* Sidebar de filtros */
+.filtros {
+  width: 18%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-family: 'Poppins', sans-serif;
+  padding: 16px;
+}
+
+.filtros label {
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 12px;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.filtros select,
+.filtros input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  width: 100%;
+  background-color: white;
+}
+
+/* Inputs dobles (precio y m2) */
+.precio-box {
+  display: flex;
+  gap: 10px;
+}
+
+.precio-box input {
+  width: 100%;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+
+/* Botones aplicar y limpiar */
+.filtro-botones {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.filtro-botones button {
+  flex: 1;
+  padding: 10px 0;
+  border-radius: 8px;
+  border: none;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.filtro-botones button:first-child {
+  background-color: #5B52BC;
+  color: white;
+}
+
+.filtro-botones .boton-limpiar {
+  background-color: #e74c3c;
+  color: white;
+}
+
+/* Sugerencias autocompletado */
+.sugerencias-dropdown {
+  list-style: none;
+  margin-top: 6px;
+  padding: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-height: 180px;
+  overflow-y: auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  z-index: 10;
+  position: absolute;
+  width: 85%;
+}
+
+.sugerencias-dropdown li {
+  padding: 10px 12px;
+  cursor: pointer;
+}
+
+.sugerencias-dropdown li:hover {
+  background-color: #f0f0f0;
+}
+
+/* Grid de propiedades */
+.resultados-listado {
+  width: 80%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 24px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+  background: white;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0px 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.card-info {
+  padding: 16px;
+}
+
+.card-info h5 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.card-info .precio {
+  color: #5B52BC;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+/* Zonas destacadas */
+.zonas-destacadas {
+  margin-top: 160px;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  position: relative;
+  z-index: 2;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+  clear: both;
+  display: block;
+  width: 100%;
+}
+
+.zona-cards {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.zona-card {
+  background: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Mensaje sin resultados */
+.no-result {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+/* Botón "Ver más" */
+.ver-mas-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 40px auto 60px auto;
+}
+
+.ver-mas-btn {
+  background-color: #5B52BC;
+  color: white;
+  padding: 12px 32px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.ver-mas-btn:hover {
+  background-color: #493ca4;
+}
+
+/* Estilo para pestañas de tipo de operación */
+.tabs-operacion {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.tabs-operacion button {
+  padding: 10px 20px;
+  background-color: #f2f2f2;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: #333;
+}
+
+.tabs-operacion button.active {
+  background-color: #5B52BC;
+  color: #fff;
+}
+
+.tabs-operacion button:hover {
+  background-color: #ddd;
+}
+
+/* Estilo de pestañas para Compra y Renta */
+.tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 16px;
+  margin-top: -16px;
+  position: relative;
+  z-index: 2;
+}
+
+.tab {
+  width: 106px;
+  height: 40px;
+  padding: 10px 20px;
+  border-radius: 10px 10px 0 0;
+  background: #d2d1d1;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 1px -2px 4px rgba(0, 0, 0, 0.25);
+  position: relative;
+  z-index: 2;
+  transition: background 0.3s ease;
+}
+
+.tab.active {
+  background: #9d9c9c;
+  z-index: 3;
+}
+
+/* Contenedor de zonas */
+.zonas-destacadas {
+  margin-top: 120px;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  position: relative;
+  z-index: 2;
+  font-family: 'Poppins', sans-serif;
+  background-color: #ffffff;
+}
+
+.zona-cards {
+  display: flex;
+  gap: 24px;
+  margin-top: 24px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Card individual */
+.zona-card {
+  position: relative;
+  width: 380px;
+  height: 260px;
+  border-radius: 12px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.zona-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+/* Efecto hover */
+.zona-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.zona-card:hover img {
+  transform: scale(1.1);
+}
+
+/* Texto encima de la imagen */
+.zona-card p {
+  position: absolute;
+  bottom: 16px;
+  left: 20px;
+  margin: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+/* Flecha opcional */
+.zona-card::after {
+  content: "→";
+  position: absolute;
+  bottom: 16px;
+  right: 20px;
+  color: white;
+  font-size: 22px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.zona-card:hover::after {
+  opacity: 1;
+}

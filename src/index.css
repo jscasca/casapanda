@@ -1,0 +1,50 @@
+/* Reset general */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos base */
+  html, body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    overflow-x: hidden;
+  }
+  
+  /* Encabezados */
+  h1, h2, h3 {
+    font-weight: 600;
+  }
+  
+  /* Botones globales */
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  /* Scroll oculto visualmente */
+  html::-webkit-scrollbar,
+  body::-webkit-scrollbar {
+    display: none;
+  }
+  html, body {
+    scrollbar-width: none;     /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+  }
+  
+  /* Contenedor maestro para alineación de secciones */
+  .container-xl {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    width: 100%;
+  }
